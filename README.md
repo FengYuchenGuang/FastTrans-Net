@@ -1,10 +1,10 @@
-#   Lesion  Boundary Detection for Skin Lesion Segmentation Based on Boundary Sensing  and CNN-Transformer Fusion Networks  
+#   FastTrans-Net: Fusion network with shift window hierarchical attention in multi-level enhanced space for skin lesion segmentation  
 
 
 
 ## Introduction
 
-This is an official release of the paper **Lesion  Boundary Detection for Skin Lesion Segmentation Based on Boundary Sensing  and CNN-Transformer Fusion Networks**.
+This is an official release of the paper **FastTrans-Net:  Fusion network with shift window hierarchical attention in multi-level  enhanced space for skin lesion segmentation**.
 
 <div align="center" border=> <img src=framework.jpg width="600" > </div>
 
@@ -55,8 +55,8 @@ If you find MPBA-Net useful in your research, please consider citing:
 
 ```
 @inproceedings{
-  title={Lesion  Boundary Detection for Skin Lesion Segmentation Based on Boundary Sensing  and CNN-Transformer Fusion Networks},
-  author={Xuzhen Huang, Yuliang Ma*, Xiajin Mei, ZizhuoWu, Mingxu Sun, Qingshan She}
+  title={FastTrans-Net: Fusion network with shift window hierarchical attention in multi-level enhanced space for skin lesion segmentation},
+  author={Xuzhen Huang, Yuliang Ma*, Xiajin Mei, Mingxu Sun, Shouqiang Jia}
 }
 ```
 
